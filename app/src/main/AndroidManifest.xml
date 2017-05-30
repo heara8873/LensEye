@@ -18,7 +18,6 @@
 
         <activity android:name=".MainActivity"></activity>
 
-        출처: http://chosk.tistory.com/16 [chosk, 일상다반사]
     </application>
 
 </manifest>
